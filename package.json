@@ -1,0 +1,15 @@
+{
+  "name": "net.caffeineinject.tmp-genshingothic",
+  "version": "0.1.0",
+  "type": "UI",
+  "repository": {
+    "type": "git",
+    "url": "git+https://@github.com:t5ujiri/TMP_GenShinGothic.git"
+  },
+  "author": "Takumi Ito",
+  "license": "OFL-1.1",
+  "bugs": {
+    "url": "https://github.com/t5ujiri/TMP_GenShinGothic/issues"
+  },
+  "homepage": "https://github.com/t5ujiri/TMP_GenShinGothic#README.md"
+}
