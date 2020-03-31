@@ -1,15 +1,15 @@
 {
-  "name": "net.caffeineinject.",
+  "name": "net.caffeineinject.tmp-genshingothic",
   "version": "0.1.0",
-  "type": "sample",
+  "type": "UI",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/t5ujiri/upm-ci-example.git"
+    "url": "git+https://@github.com:t5ujiri/TMP_GenShinGothic.git"
   },
   "author": "Takumi Ito",
-  "license": "MIT",
+  "license": "OFL-1.1",
   "bugs": {
-    "url": "https://github.com/favoyang/upm-ci-example/issues"
+    "url": "https://github.com/t5ujiri/TMP_GenShinGothic/issues"
   },
-  "homepage": "https://github.com/favoyang/upm-ci-example#readme"
+  "homepage": "https://github.com/t5ujiri/TMP_GenShinGothic#README.md"
 }
